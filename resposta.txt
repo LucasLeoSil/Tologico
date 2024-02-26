@@ -1,0 +1,6 @@
+res 1 - sem ciclo
+res 2 - com ciclo
+res 3 - sem ciclo
+res 4 - com ciclo
+res 5 - com ciclor
+res 6 - sem ciclo
